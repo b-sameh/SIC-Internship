@@ -1,3 +1,2 @@
-logs/
-main.log 
-*.log
+bin
+logs
